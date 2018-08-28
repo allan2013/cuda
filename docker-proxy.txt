@@ -1,0 +1,9 @@
+#Docker入門
+https://qiita.com/k2works/items/926c4a3f5798c47b4088
+
+#docker docs
+https://docs.docker.com/get-started/part2/#the-app-itself
+
+#docker-proxy
+https://stackoverflow.com/questions/46036152/lookup-registry-1-docker-io-no-such-host/46037636
+https://deeeet.com/writing/2014/07/01/docker-behind-proxy/
